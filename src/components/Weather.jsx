@@ -48,13 +48,6 @@ const Weather = () => {
             ))
           }
         </div>
-
-
-
-
-
-
-
       </div>
     </div>
   )
